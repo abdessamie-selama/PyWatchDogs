@@ -1,5 +1,5 @@
 # PyWatchDogs
-a self driving car in a video game using Deep Learning
+A self driving car in a video game using Deep Learning
 
 the dataset : https://www.kaggle.com/datasets/abdesamieselama/watch-dogs-dataset
 
