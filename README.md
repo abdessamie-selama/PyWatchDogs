@@ -21,5 +21,6 @@ i have collected around 1.3 M samples for the dataset.
 02/Ballancing Data:
   This step must be done to make sure that the dataset contains the same number of samples for each category(left,forward;right).
 
-03/Training the Model
+03/Training the Model:
+
 finally the training part using convolutional neural network (CNN) and train the model.
